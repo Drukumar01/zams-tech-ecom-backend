@@ -19,7 +19,7 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => ['*'],
+    'allowed_origins' => ['https://zams-tech-ecom.vercel.app'],
 
     'allowed_origins_patterns' => [],
 
